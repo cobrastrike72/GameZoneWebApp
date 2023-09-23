@@ -1,0 +1,345 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Madrid.GameZone.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Madrid.GameZone.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\253c6363-324d-43f8-a54d-3d8121b98ad3.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\253c6363-324d-43f8-a54d-3d8121b98ad3.jpeg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\47823509-d7b1-4e44-a110-76aa7c0c4ab9.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\47823509-d7b1-4e44-a110-76aa7c0c4ab9.jpeg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\73b7dfbe-b58d-4db1-8511-c4326b8fca6d.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\73b7dfbe-b58d-4db1-8511-c4326b8fca6d.jpg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\8eb9074f-bff1-422b-afbc-9dddfdab4916.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\8eb9074f-bff1-422b-afbc-9dddfdab4916.jpeg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\ad9a187c-8555-4d51-8e73-cff103dc1253.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\ad9a187c-8555-4d51-8e73-cff103dc1253.jpg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\b0c38520-ca08-4d09-b9b8-73a76cead867.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\b0c38520-ca08-4d09-b9b8-73a76cead867.jpg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\assets\\Images\\games\\dfd7ac25-931b-470c-959e-79f24ce02f0f.jpeg",
+      "PackagePath": "staticwebassets\\assets\\Images\\games\\dfd7ac25-931b-470c-959e-79f24ce02f0f.jpeg"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\js\\filesize-validator.js",
+      "PackagePath": "staticwebassets\\js\\filesize-validator.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\js\\game-form.js",
+      "PackagePath": "staticwebassets\\js\\game-form.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\js\\games-index-delete-action.js",
+      "PackagePath": "staticwebassets\\js\\games-index-delete-action.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "E:\\.net\\DevCreed\\DirtyWork\\Madrid\\Madrid.GameZone\\wwwroot\\lib\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\lib\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Madrid.GameZone.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Madrid.GameZone.props",
+      "PackagePath": "build\\Madrid.GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Madrid.GameZone.props",
+      "PackagePath": "buildMultiTargeting\\Madrid.GameZone.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Madrid.GameZone.props",
+      "PackagePath": "buildTransitive\\Madrid.GameZone.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
